@@ -1,0 +1,51 @@
+body {
+    background-color: #EEE;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container {
+    background-color: white;
+    width: 80%;
+    margin: auto;
+}
+
+#header {
+    background-color: #66CCFF;
+    color: white;
+    text-align: center;
+}
+
+#content {
+    padding: 10px;
+}
+
+#nav {
+    width: 22%;
+    float: left;
+}
+
+#main {
+    width: 75%;
+    float: right;
+}
+
+#footer {
+    clear: both;
+    padding: 10px;
+    color: white;
+    background-color: #999;
+    text-align: right;
+}
+
+#nav li {
+    list-style-type: none;
+}
+
+#nav ul {
+    padding: 0;
+}
+
+#nav a {
+    text-decoration: none;
+    color: tomato;
+}
