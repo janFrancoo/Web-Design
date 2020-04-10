@@ -1,0 +1,73 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    color: white;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li a {
+    padding: 5px;
+}
+
+nav ul li a:hover {
+    background-color: darkslateblue;
+    border-radius: 5px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.oval {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    border-radius: 100%;
+}
+
+section ul {
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+i {
+    margin-right: 10px;
+}
+
+section ul li a {
+    color:black;
+}
+
+button {
+    border-radius: 15px;
+    border: 0px;
+    padding: 5px 20px;
+    color: white;
+    font-size: 1rem;
+}
+
+.ad {
+    color: white;
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10%;
+    height: 200px;
+    align-items: center;
+}
+
+.mini {
+    max-width: 25%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-style: italic;
+}

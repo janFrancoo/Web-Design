@@ -1,0 +1,12 @@
+.container {
+    overflow: hidden;
+}
+
+.header {
+    flex-direction: column;
+    height: 90px;
+}
+
+.ad {
+    height: 400px;
+}

@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: 'Open Sans', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.bg-dark {
+    background-color: darkblue;
+}
+
+.bg-light {
+    background-color: cornflowerblue;
+}
+
+.h-small {
+    font-size: 1.5rem;
+}
+
+.h-med {
+    font-size: 2rem;
+}
+
+.h-large {
+    font-size: 3rem;
+}
+
+.container {
+    width: 80%;
+    margin: auto;;
+}
+
+.float-left {
+    float: left;
+}
